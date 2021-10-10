@@ -1,0 +1,14 @@
+
+body{
+
+    
+    background-image: url('img_desktop.svg');
+    display: flex;
+    background-position: top;
+    background-repeat: no-repeat;
+    justify-content: center;
+    padding: 2% 0;
+
+    
+}
+
